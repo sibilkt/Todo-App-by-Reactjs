@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sibilkt/Todo-App-by-Reactjs/static/css/main.2686d662.chunk.css",
+    "main.js": "/sibilkt/Todo-App-by-Reactjs/static/js/main.9310a187.chunk.js",
+    "main.js.map": "/sibilkt/Todo-App-by-Reactjs/static/js/main.9310a187.chunk.js.map",
+    "runtime-main.js": "/sibilkt/Todo-App-by-Reactjs/static/js/runtime-main.86286dd8.js",
+    "runtime-main.js.map": "/sibilkt/Todo-App-by-Reactjs/static/js/runtime-main.86286dd8.js.map",
+    "static/js/2.f56638b4.chunk.js": "/sibilkt/Todo-App-by-Reactjs/static/js/2.f56638b4.chunk.js",
+    "static/js/2.f56638b4.chunk.js.map": "/sibilkt/Todo-App-by-Reactjs/static/js/2.f56638b4.chunk.js.map",
+    "index.html": "/sibilkt/Todo-App-by-Reactjs/index.html",
+    "static/css/main.2686d662.chunk.css.map": "/sibilkt/Todo-App-by-Reactjs/static/css/main.2686d662.chunk.css.map",
+    "static/js/2.f56638b4.chunk.js.LICENSE.txt": "/sibilkt/Todo-App-by-Reactjs/static/js/2.f56638b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86286dd8.js",
+    "static/js/2.f56638b4.chunk.js",
+    "static/css/main.2686d662.chunk.css",
+    "static/js/main.9310a187.chunk.js"
+  ]
+}
